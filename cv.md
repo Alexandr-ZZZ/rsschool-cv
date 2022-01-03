@@ -12,3 +12,24 @@ My full name is Aliaksandr Zasimenka. I am 31 years old. I graduated from Gomel 
 +CSS
 +JS
 +MS Excel
+#**Code example:**#
+```
+
+
+```
+
+#**Work experience:**#
+
+
+
+
+#**Education and courses:**#
+
+HTML, CSS, JS
+GIT video courses on Youtube channel
+Java Script
+
+#**Language:**#
+
++English - A2
++Russian - native
