@@ -6,7 +6,7 @@ Aliaksandr Zasimenka
   +E-mail: Zsimenka@gmail.com
   +Tel: +375298346082
 #**About myself:**#
-My full name is Aliaksandr Zasimenka. I am 31 years old.
+My full name is Aliaksandr Zasimenka. I am 31 years old. I graduated from Gomel State Technical University with a degree in power engineering
 #**Skills:**#
 +HTML
 +CSS
