@@ -3,7 +3,7 @@ Aliaksandr Zasimenka
 #**Contacts:**#
   +Address: Mozyr, Belarus
   +Discord: Alexandr-ZZZ#9692
-  +E-mail: Zsimenka@gmail.com
+  +E-mail: Zasimenka@gmail.com
   +Tel: +375298346082
 #**About myself:**#
 My full name is Aliaksandr Zasimenka. I am 31 years old. I graduated from Gomel State Technical University with a degree in power engineering
@@ -14,7 +14,9 @@ My full name is Aliaksandr Zasimenka. I am 31 years old. I graduated from Gomel 
 +MS Excel
 #**Code example:**#
 ```
-
+function greet() {
+  return 'hello world!'
+}
 
 ```
 
@@ -28,6 +30,7 @@ My full name is Aliaksandr Zasimenka. I am 31 years old. I graduated from Gomel 
 HTML, CSS, JS
 GIT video courses on Youtube channel
 Java Script
+
 
 #**Language:**#
 
